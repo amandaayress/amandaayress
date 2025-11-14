@@ -1,3 +1,3 @@
 <p align="center">
- <img src="![Biologia Marinha](https://github.com/user-attachments/assets/4d2a0235-b77f-41bf-af7f-4a2165ed4cc3)" width="60%">
+ <img src="https://github.com/amandaayress/amandaayress/blob/2f9cee582adb587f972ad37f1da0df4a261583fd/Biologia%20Marinha.gif?raw=true" width="60%">
 </p>"
